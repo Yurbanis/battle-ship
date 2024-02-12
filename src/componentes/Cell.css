@@ -1,0 +1,18 @@
+.cell {
+    width: 35px;
+    height: 35px;
+    border: 1px solid #000;
+  }
+  
+  .cell.has-ship {
+    background-color: #f267bf;
+  }
+  
+  .cell.hit {
+    background-color: red;
+  }
+  
+  .cell.miss {
+    background-color: rgb(31, 79, 238);
+  }
+  
